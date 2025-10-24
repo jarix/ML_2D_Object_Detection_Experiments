@@ -1,2 +1,4 @@
 .venv/
 .vscode/
+# Do not track downloaded models
+*.pt
